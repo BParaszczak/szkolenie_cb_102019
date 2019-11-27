@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    color: darkred;
+    background-color: black; 
+
+}
+
+h2 {
+    color: darkolivegreen;
+}
+
+p{
+    color: whitesmoke;
+}
